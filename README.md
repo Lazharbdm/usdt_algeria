@@ -1,2 +1,3 @@
-# usdt_algeria
-بيع وشراء العملات الرقمية 
+# USDT DZ Site
+
+موقع شراء USDT في الجزائر باستخدام Next.js وTailwind CSS.
